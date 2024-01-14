@@ -180,7 +180,7 @@ nav {
 }
 nav a {
   text-transform: capitalize;
-  font-weight: 700;
+  font-weight: 701;
   font-size: 1rem;
   color: var(--clr-primary-1);
   letter-spacing: var(--spacing);
