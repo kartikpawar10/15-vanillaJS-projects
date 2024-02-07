@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   const colorCodeElement = document.querySelector('.color');
-  const copyButton = document.querySelector('.btn-copy');
+  const copyButton = document.querySelector('.btn-copy')
 
   copyButton.addEventListener('click', function () {
       const colorToCopy = colorCodeElement.textContent;
